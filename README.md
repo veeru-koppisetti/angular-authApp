@@ -1,6 +1,6 @@
 # angular-auth
 
-Source : https://github.com/veeru-koppisetti/angular-auth.git
+Source : https://github.com/veeru-koppisetti/angular-authApp.git
 
 npm install
 
